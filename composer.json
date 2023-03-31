@@ -1,0 +1,17 @@
+{
+    "name": "stone/maze",
+    "description": "Cellular Automaton Maze pathfinder",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Stone\\Maze\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anderson A. Castro",
+            "email": "anderson.dev@softmus.com.br"
+        }
+    ],
+    "require": {}
+}
